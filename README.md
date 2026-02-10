@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+![Programmers Badge]
+(https://raw.githubusercontent.com/mingeun-git/Programmers_Badge_Generator/main/result/result.svg)
 <!--
 **mingeun-git/mingeun-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
