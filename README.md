@@ -1,7 +1,9 @@
 ## Hi there 👋
+<img src="https://raw.githubusercontent.com/mingeun-git/Programmers_Badge_Generator/main/result/result.svg" width="400">
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/mingeun-git/Programmers_Badge_Generator/main/result/result.svg" width="400">
-</p>
+
 <!--
 **mingeun-git/mingeun-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
