@@ -1,6 +1,4 @@
 ## Hi there 👋
-<img src="https://raw.githubusercontent.com/mingeun-git/Programmers_Badge_Generator/main/result/result.svg" width="400">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/mingeun-git/Programmers_Badge_Generator/main/result/result.svg" width="400">
 
